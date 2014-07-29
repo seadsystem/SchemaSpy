@@ -1,6 +1,1 @@
-SchemaSpy
-=========
-use the following command to generate a schema report on shempserver
-
 java -jar schemaSpy_5.0.0.jar -t mysql -o library -host localhost -db shempserver -u root -p teammantey -dp ./mysql-connector-java-5.1.31-bin.jar
-
